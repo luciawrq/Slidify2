@@ -24,7 +24,7 @@ logo        : App.png
 
 The App is used to predict one out of three species of iris (setosa, versicolor and virginica). It takes four variables: sepal length and width, petal length and width. Users can put in the values on the side bar panel and view results on the main panel.
 
-<p><img src="App.png" alt="alt text"></p>
+![APicture](./assets/img/App.png)
 
 --- 
 
