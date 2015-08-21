@@ -9,6 +9,7 @@ hitheme     : tomorrow      #
 widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
+logo        : App.png
 ---
 
 ## Shiny App for Predicting Iris Species
@@ -23,7 +24,7 @@ knit        : slidify::knit2slides
 
 The App is used to predict one out of three species of iris (setosa, versicolor and virginica). It takes four variables: sepal length and width, petal length and width. Users can put in the values on the side bar panel and view results on the main panel.
 
- ![width](App.png)
+<p><img src="App.png" alt="alt text"></p>
 
 --- 
 
@@ -91,6 +92,7 @@ predict(modlda, newdata = x)
 ## The End
 
 <span style="color:pink"; font-weight:bold>Thank you!</span>
+
 
 
 
